@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="socrates/test/crypt/|socrates/test/http/|socrates/test/model/" kind="src" path="test"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Socrates"/>
+	<classpathentry kind="lib" path="/data/fucina/develop/usr/apps/android-sdk-linux_86/add-ons/addon-google_apis-google-15/libs/maps.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/robolectric"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/data/fucina/develop/home/k0smik0/workspace/libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="libs/google-api-client-1.6.0-beta.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-1.6.0-beta.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-extensions-android2-1.6.0-beta.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-mini-1.9.2.jar"/>
+	<classpathentry kind="lib" path="libs/javax.inject.jar"/>
+	<classpathentry kind="lib" path="libs/roboguice-mapscompatibility-core.jar"/>
+	<classpathentry kind="lib" path="libs/roboguice-mapscompatibility-maps.jar"/>
+	<classpathentry kind="lib" path="libs/sisu-guice-3.0.3-no_aop.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
